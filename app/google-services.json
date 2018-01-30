@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "122420640691",
+    "firebase_url": "https://latihan1-f2d19.firebaseio.com",
+    "project_id": "latihan1-f2d19",
+    "storage_bucket": "latihan1-f2d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122420640691:android:b412fd574e4e7876",
+        "android_client_info": {
+          "package_name": "com.timedoor.riand.latihan1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122420640691-6adidj18jdhrru8lh66vfasdijmn9dcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_maU6IpnVm0UcJU0oGlnnNmQ4VraK1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
